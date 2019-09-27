@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Práctica 2: Login</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="singin">Sign In</string>
+    <string name="createaccount">Create Account</string>
+    <string name="email">Email</string>
+    <string name="reppassword">Repeat password</string>
+    <string name="account">Account</string>
+    <string name="cerrar">Cerrar sesión</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="partido">PARTIDO</string>
+    <string name="estadio">ESTADIO</string>
+    <string name="alineacion">ALINEACION</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="resultados">RESULTADOS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mainactivity">Elegir equipos favoritos</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="equiposfavoritos">Se mostraran los resultados de los equipos favoritos</string>
+    <string name="equiposresultados">Se mostraran todos los resultados</string>
+    <string name="simulacion">Simulacion del partido</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="nombre_account">Nombre completo</string>
+    <string name="apellido_account">Apellido</string>
+
+    <string name="facebook_app_id" translatable="false">520488335409044</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb520488335409044</string>
+    <string name="request_client_id" translatable="false">262101390250-ejaus6oj8660c8slifds70grgilot7ih.apps.googleusercontent.com</string>
+
+    262101390250-ejaus6oj8660c8slifds70grgilot7ih.apps.googleusercontent.com
+
+</resources>
